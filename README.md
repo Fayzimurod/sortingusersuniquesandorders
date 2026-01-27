@@ -1,1 +1,1 @@
-sortingusersuniquesandorders can sort persons age 
+sortingusersuniquesandorders can sort persons unique and orders 
