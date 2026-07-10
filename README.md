@@ -3,13 +3,8 @@
 A concise example collection demonstrating efficient Java collection patterns for real-world applications.
 
 <!-- <p>first commit</p> -->
-<!-- <p>second commit</p> -->
-<!-- <p>third commit</p> -->
-<!-- <p>fourth commit</p> -->
-<!-- <p>fivth commit</p> -->
-<!-- <p>sixth commit</p> -->
-<!-- <p>seventh commit</p> -->
-<!-- <p>eighth commit</p> -->
+<!-- <p>ninth commit</p> -->
+
 
 ## ✨ Features
 
