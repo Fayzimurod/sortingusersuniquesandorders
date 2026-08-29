@@ -3,7 +3,6 @@
 A concise example collection demonstrating efficient Java collection patterns for real-world applications.
 
 <!-- <p>first commit</p> -->
-<!-- <p>tenth commit</p> -->
 <!-- <p>eleventh commit</p> -->
 
 
