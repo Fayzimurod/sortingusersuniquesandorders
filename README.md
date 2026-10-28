@@ -1,7 +1,4 @@
-<!-- <p>
-1st commit
-2nd commit 
-</p> --> 
+<!-- <p></p> --> 
 # 🚀 Java Collections: Duplicate Removal & Fast Lookup
 
 A concise example collection demonstrating efficient Java collection patterns for real-world applications.
